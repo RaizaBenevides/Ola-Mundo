@@ -1,2 +1,3 @@
-# Ola Mundo
- primeiro repositório
+# Olá, Mundo!
+ Pimeiro repositório do curso.
+ Repositório criado durante uma aula.
